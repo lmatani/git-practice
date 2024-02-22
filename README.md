@@ -1,1 +1,1 @@
-# Practica de git [Go to CHANGELOG](CHANGELOG.md)
+# Práctica de git [Go to CHANGELOG](CHANGELOG.md)
